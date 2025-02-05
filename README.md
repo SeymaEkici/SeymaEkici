@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hi there, I'm Sheima! 👋
 
-<!--
-**SeymaEkici/SeymaEkici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineering Student | Backend Developer**  
+📍 **Intern at BTK**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔹 Currently developing a **microservices-based to-do application** using **FastAPI, PostgreSQL, and Kafka**.
+- 🔹 Passionate about **backend development**, **distributed systems**, and **scalable architectures**.
+- 🔹 Experienced in **Java, Python, SQL, and API development**.
+- 🔹 Strong interest in **cloud computing** and **containerized environments**.
+
+---
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📫 Contact Me
+- 💼 **GitHub:** [SeymaEkici](https://github.com/SeymaEkici)
+- 📩 **Email:** (Your Email Here)
+- 🔗 **LinkedIn:** (Your LinkedIn Here)
+
+---
+
+Thank you for visiting my profile! Feel free to connect and collaborate. 🚀
