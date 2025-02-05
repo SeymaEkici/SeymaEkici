@@ -26,8 +26,8 @@
 
 ### 📫 Contact Me
 - 💼 **GitHub:** [SeymaEkici](https://github.com/SeymaEkici)
-- 📩 **Email:** (Your Email Here)
-- 🔗 **LinkedIn:** (Your LinkedIn Here)
+- 📩 **Email:** seymaekci45@gmail.com
+- 🔗 **LinkedIn:** [(Your LinkedIn Here)](https://www.linkedin.com/in/şeyma-ekici-b2679a244/)
 
 ---
 
