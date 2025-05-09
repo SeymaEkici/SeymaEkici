@@ -1,4 +1,4 @@
-### Hi there, I'm Sheima! 👋
+### Hi there, I'm Şeyma! 👋
 
 💻 **Computer Engineering Student | Backend Developer**  
 📍 **Intern at BTK**  
