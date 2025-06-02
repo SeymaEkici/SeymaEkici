@@ -6,7 +6,6 @@
 ---
 
 ### 🚀 About Me
-- 🔹 Currently developing a **microservices-based workflow application** using **FastAPI, PostgreSQL, and Kafka**.
 - 🔹 Passionate about **backend development**, **distributed systems**, and **scalable architectures**.
 - 🔹 Experienced in **Java, Python, SQL, and API development**.
 - 🔹 Strong interest in **cloud computing** and **containerized environments**.
