@@ -1,7 +1,6 @@
 ### Hi there, I'm Şeyma! 👋
 
-💻 **Computer Engineering Student | Backend Developer**  
-📍 **Intern at BTK**  
+💻 **Computer Engineering Student | Backend Developer**
 
 ---
 
