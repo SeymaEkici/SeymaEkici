@@ -1,10 +1,10 @@
 ### Hi there, I'm Şeyma! 👋
 
-💻 **Computer Engineering Student | Backend Developer**
+**Computer Engineering Student | Backend Developer**
 
 ---
 
-### 🚀 About Me
+### About Me
 - 🔹 Passionate about **backend development**, **distributed systems**, and **scalable architectures**.
 - 🔹 Experienced in **Java, Python, SQL, and API development**.
 - 🔹 Strong interest in **cloud computing** and **containerized environments**.
@@ -43,4 +43,4 @@
 
 ---
 
-Thank you for visiting my profile! Feel free to connect and collaborate. 🚀
+Thank you for visiting my profile! Feel free to connect and collaborate. 
