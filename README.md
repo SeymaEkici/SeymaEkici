@@ -38,7 +38,7 @@
 
 ### 📫 Contact Me
 - 💼 **GitHub:** [SeymaEkici](https://github.com/SeymaEkici)
-- 📩 **Email:** seymaekci45@gmail.com
+- 📩 **Email:** seymaekci006@gmail.com
 - 🔗 **LinkedIn:** [SeymaEkici](https://www.linkedin.com/in/şeyma-ekici-b2679a244/)
 
 ---
