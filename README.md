@@ -1,6 +1,6 @@
 ### Hi there, I'm Şeyma! 👋
 
-**Computer Engineering Student | Full-Stack Developer**
+**Computer Engineer | Full-Stack Developer**
 
 ---
 
